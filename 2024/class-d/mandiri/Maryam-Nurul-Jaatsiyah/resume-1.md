@@ -14,6 +14,6 @@ Agama dan sains dianggap bertentangan karena memiliki cara pandang yang berbeda 
 ## Kesimpulan
 Agama dan sains dianggap bertabrakan karena perbedaan metode dalam mencari kebenaran. Sains melalui pengamatan, ekperimen untuk menjelaskan bagaimana dunia bekerja, sedangkan agama melalui wahyu, kitab suci, dan tradisi untuk memberikan pandangan, pedoman moral, dan makna hidup.
 
-## Daftar Pustaka
+## Referensi
 1. Kelompok 1 4D. (2026). Hubungan Sains dan Agama
 2. Harari, Y. N. (2017). Homo Deus: A Brief History of Tomorrow.
