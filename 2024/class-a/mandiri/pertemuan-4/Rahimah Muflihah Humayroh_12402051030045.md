@@ -32,6 +32,7 @@ Schryen, Guido, and Rouven Kadura. “Open Source vs. Closed Source Software: To
 “Troublemakers (Silicon Valley Coming of Age).Id.Pdf - Google Drive.” Accessed April 10, 2026. https://drive.google.com/file/d/1WCullgaIOnFxQAnE6GCdEUZwKoLzg_Lp/view.
 
 > Catatan dari Andhika
+> 
 > Rahimah Muflihah Humayroh sudah menulis resumenya, tetapi berada di comment projectnya dan sudah di milestone dan mengumpulkan di bawah waktu deadline
 
 di https://github.com/worker-sentinel/ghirlandaio/issues/855
