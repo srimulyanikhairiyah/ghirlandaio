@@ -4,7 +4,7 @@
 ## Mata Kuliah: Perpustakaan dan Arsip Digital
 
 ## Pendahuluan 
-Hubungan antara negara dan teknologi mengalami perubahan, yang awalnya didominasi oleh negara menjadi lebih kompleks. Negara tidak lagi menjadi aktor utama, melainkan berbagi peran dengan sektor swasta. 
+Hubungan antara negara dan teknologi mengalami perubahan, yang awalnya didominasi oleh negara menjadi lebih kompleks. Negara tidak lagi menjadi aktor utama, melainkan berbagi peran dengan sektor swasta. Negara kembali aktif dalam pengembangan teknologi strategis, setelah sektor swasta mengambil peran lebih dalam pengembangan teknologi. Perusahaan teknologi besar memiliki kekuatan yang sangat besar, baik dari segi ekonomi maupun penguasaan data. Hal ini menciptakan hubungan yang bersifat interdependen antara negara dan teknologi, di mana negara membutuhkan teknologi untuk mempertahankan kekuasaan dan keamanan, sementara teknologi berkembang dalam kerangka ekonomi global yang sering kali melampaui batas-batas negara.
 
 ## Metode
 Troublemakers: Silicon Valley's Coming of Age yang ditulis oleh Leslie Berlin dan Makalah yang disusun oleh kelompok 3.
