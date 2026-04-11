@@ -1,0 +1,6 @@
+# BAGAIMANA DEFINISI *HACKING* DI SILICON VALLEY PADA ERA 1970-AN MENURUT BUKU *TROUBLEMAKERS*
+*Resume Hasil Presentasi Kelompok 3: Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka*
+
+## PENDAHULUAN
+Di zaman sekarang, zaman dimana teknologi sudah berkembang semakin maju dan lebih baik secara fungsional. Era dimana orang-orang bisa melakukan berbagai aktivitas dengan mudah berkat kemajuan teknologi manusia yang melahirkan beragam alat, seperti menonton *film*, bermain *game* dan mencari informasi melalui internet. Banyak informasi yang bersifat *open source* yang bisa diakses melalui internet sehingga pengguna bisa mengakses informasi yang dibutuhkan kapan pun dan di mana pun. Tetapi, karena adanya *open source* ini, banyak celah keamanan yang mulai muncul untuk dimanfaatkan oleh beberapa orang yang tidak bertanggung jawab untuk melakukan tindakan kriminal yang dikenal sebagai *hacking* (peretasan). Itulah paradigma yang muncul di pikiran orang-orang bila mendengar kata “*hacking*”. Namun, kenyataannya *hacking* yang sebenarnya tidak seperti itu. Resume ini berupaya mengkaji secara lebih mendalam mengenai definisi *hacking* berdasarkan Silicon Valley pada era 1970-an menurut buku Troublemakers.
+
