@@ -13,5 +13,14 @@ Hadirnya kebijakan dapat memberikan peran sebagai kerangka kerja maupun yang mem
 Adapun manfaat dari adanya peranan kebijakan dan standar operasional prosedur yaitu; perlindungan data pribadi, audit kepatuhan, dan standar tata kelola disini kebijakan dapat memberikan peran sebagai membantu perilaku manusia untuk dapat lebih terstruktur dan dengan bantuan standar operasional prosedur memberikan penerjemahan atau pemahaman bagaimana cara manusia melakukan sesuatu.
 
 ## KESIMPULAN
+Sebagai kesimpulan, peranan kebijakan dan standar operasion prosedur (SOP) merupakan komponen penting dan elemen fundamental dalam suatu manajemen keaman digital maupun keamanan digital agar dapat meminimalisir atau mengurangi mitigasi risiko tingkat tinggi, namun kebijakan ini harus efektif dan bersifat kom;prehensif untuk dapat menyesuaikan diri terhadap ancaman dan perkembangan teknologi yang terus berkembang. 
 
 ## DAFTAR PUSTAKA
+**Ieke Wulan Ayu, Z. S. (2022)**. BUDAYA DIGITAL DALAM TRANSFORMASI DIGITAL MENGHADAPI ERA SOCIETY 5.0. JPML: Jurnal Pengembangan Masyarakat Lokal Volume 5 Issue 1, 20 - 25.
+
+**Indriya Fathni, B. S. (2023)**. Pengaruh Kebijakan Privasi, dan Tingkat Kepercayaan Pada Platform Digital terhadap Perilaku Pengguna dalam Melindungi Privasi Online di Indonesia. Sanskara Hukum dan HAM Vol. 2, No. 02, 118 - 126.
+
+**Mohammad Omer Hoshmand, d. S. (2023)**. Analisis Keamanan Infrastruktur Teknologi Informasi dalam Menghadapi Ancaman Cybersecurity. AICOMS: Applied Information Technology and Computer Science Vol. 2 No. 2, 9 - 18.
+
+**Shelty D.M Sumual, A. F. (2025)**. KEAMANAN DAN PRIVASI: MENGEMBANGKAN KEBIJAKAN DALAM MANAJEMEN TEKNOLOGI INFORMASI DAN KOMUNIKASI. EduTIK: Jurnal Pendidikan Teknologi Informasi dan Komunikasi Volume 5 Nomor 6, 2495 - 2503.
+
