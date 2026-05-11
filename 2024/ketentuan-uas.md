@@ -285,6 +285,16 @@ pada tim yang menang, nilai uts dan formatif akan disamakan pada nilai uas
 
 ---
 
+<img src=ghirlandaio/2024/bagan_uas.png alt="foto_bagan" width="300" height="200" > 
+
+img {
+  width: 100%; /* Scales to container width */
+  max-width: 500px; /* Limits maximum size */
+  height: auto; /* Maintains aspect ratio */
+}
+
+---
+
 # Daftar Penyusun
 1. Muhammad Tri Andika Yustisia
 2. Fathi Rakha Herlambang
