@@ -27,6 +27,7 @@
 <br>
 Assalamualaikum Warahmatullahi Wabarakatuh.
 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Puji syukur kami panjatkan ke hadirat Allah SWT atas segala rahmat dan karunia-nya sehingga kami dapat menulis makalah yang berjudul: "Perpustakaan dan Arsip Digital: Instlasi Base Arch Linux" ini secara benar dan baik.
 
 
 
