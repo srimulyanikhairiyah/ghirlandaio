@@ -108,18 +108,18 @@ misalnya nama devicenya adalah
 
 ### untuk boot
 ```
-mkfs.fat -F 32 /dev/nvme0np6
+mkfs.fat -F 32 /dev/nvme0n1p6
 ```
 
 ### untuk swap
 ```
-mkswap /dev/nvme0np7
-swapon /dev/nvme0np7
+mkswap /dev/nvme0n1p7
+swapon /dev/nvme0n1p7
 ```
 
 ### untuk root
 ```
-# mkfs.ext4 /dev/nvme0np8
+# mkfs.ext4 /dev/nvme0n1p8
 ```
 
 https://wiki.archlinux.org/title/Partitioning#Example_layouts
@@ -127,11 +127,11 @@ https://wiki.archlinux.org/title/Partitioning#Example_layouts
 ## Mount partisi
 mount root ke ```/mnt```
 ```
-mount /dev/nvme0np8 /mnt
+mount /dev/nvme0n1p8 /mnt
 ```
-### untuk UEFI System mount ke uf system contoh
+### untuk UEFI System mount ke ufi system 
 ```
-mount --mkdir /dev/efi_system_partition /mnt/boot
+mount --mkdir /dev/nvme0n1p6 /mnt/boot
 ```
 
 ## Mirror
