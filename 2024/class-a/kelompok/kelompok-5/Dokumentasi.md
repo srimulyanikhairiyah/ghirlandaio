@@ -149,7 +149,28 @@ pacstrap -K /mnt base linux linux-firmware
 ```
 paket yang sudah dikustomisasi untuk laptop saya
 ```
-pacstrap -K /mnt base linux linux-firmware amd-ucode networkmanager nano sudo grub efibootmgr os-prober dosfstools mtools ntfs-3g man-db man-pages texinfo sof-firmware
+pacstrap -K /mnt base linux linux-firmware amd-ucode networkmanager nano sudo grub efibootmgr os-prober
+```
+base: Sistem dasar arch linux agar bisa jalan
+linux: Kernel linux agar bisa boot
+linux firmware: Driver agar hardware laptop bisa berfungsi (binary blob)
+amd-ucode: karena AMD processor
+networkmanager: untuk menyambung ke wifi
+nano: untuk console text editor
+sudo: agar admin bisa memberikan authoritas ke user lain, dan user bisa memberikan command sebagai root
+grub: bootloader softwar yang dimulai oleh firmware
+efibootmgr: igunakan oleh skrip instalasi GRUB untuk menulis entri boot ke dalam NVRAM
+os-prober: untuk deteksi os lain secara otomatis
+di arch chroot
+```
+nano /etc/default/grub
+```
+uncomment
+```
+GRUB_DISABLE_OS_PROBER=false
+```
+```
+grub-mkconfig -o /boot/grub/grub.cfg
 ```
 ### fstab
 agar Agar nanti setelah Arch Linux di-boot, sistem tahu format partisi disk yang disk ada dimana
@@ -174,9 +195,9 @@ hwclock --systohc
 ```
 
 ### localization
-```
-pacman -S nano
-```
+karena sudah install nano
+
+
 masuk ke folder
 ```
 nano /etc/locale.gen
