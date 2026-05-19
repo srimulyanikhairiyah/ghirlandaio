@@ -103,7 +103,7 @@ sudo systemctl start sddm.service
 ```
 
 ## 2.3 Pipwire
-PipeWire merupakan kerangka kerja multimedia tingkat rendah yang digunakan untuk mengelola audio dan video pada sistem Linux. Layanan ini juga dapat dikonfigurasi sebagai server audio maupun server penangkap video. Selain itu, PipeWire mendukung penggunaan container seperti Flatpak dan menggunakan sistem keamanan berbasis izin seperti Polkit untuk mengatur akses perekaman layar maupun audio sehingga lebih aman dan fleksibel digunakan pada desktop Linux modern. 
+PipeWire merupakan kerangka kerja multimedia pada Linux yang digunakan untuk mengelola audio sistem. PipeWire berfungsi menghubungkan aplikasi dengan perangkat audio seperti speaker, headset, dan mikrofon sehingga suara dari aplikasi seperti browser, pemutar musik, game, maupun video dapat diproses dan diputar dengan baik. Selain itu, PipeWire mendukung latency rendah sehingga kualitas dan respons audio menjadi lebih stabil dan cocok digunakan pada desktop Linux modern. 
 
 1. Instalasi PipeWire menggunakan
 
@@ -137,7 +137,8 @@ PipeWire merupakan kerangka kerja multimedia tingkat rendah yang digunakan untuk
 
    Jika instalasi berhasil maka akan muncul tulisan
 
-   ``` Server Name: PulseAudio (on PipeWire)
+   ```
+   Server Name: PulseAudio (on PipeWire)
    ```
 
    Tulisan tersebut menunjukkan bahwa PipeWire telah aktif dan berfungsi sebagai sistem audio utama pada Arch Linux.
